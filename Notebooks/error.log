@@ -1,2 +1,5 @@
-MRISreadVertexPosition(white): could not open file /NHP_MRI/Template/NMT/single_subject_scans/Eddy/fsSurf/temp/lh.white
-MRISreadVertexPosition(white): could not open file /NHP_MRI/Template/NMT/single_subject_scans/Eddy/fsSurf/temp/rh.white
+ltMNIreadEx: could not open file /Users/chris/Documents/MRI/freesurfer/subjects//Danny/mri/transforms/talairach.xfm
+mrisReadTriangleFile(/Users/chris/Documents/MRI/freesurfer/subjects//Danny/surf/lh.sphere.reg): surface doesn't match /Users/chris/Documents/MRI/freesurfer/subjects//Danny/surf/lh.inflated
+
+mrisReadTriangleFile failed.
+
