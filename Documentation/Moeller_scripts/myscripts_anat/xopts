@@ -1,1 +1,0 @@
-mri_nu_correct.mni --proto-iters 150 --stop .0001
